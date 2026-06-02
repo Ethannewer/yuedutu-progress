@@ -1,1 +1,14 @@
-{"followup": {}, "overrides": {"71914451_CR-044": {"status": "completed", "date": "2026-06-02"}}}
+{
+  "followup": {
+    "test_sync": {
+      "done_at": 1700000000000,
+      "note": "Claude测试"
+    }
+  },
+  "overrides": {
+    "71914451_CR-044": {
+      "status": "completed",
+      "date": "2026-06-02"
+    }
+  }
+}
