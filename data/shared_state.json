@@ -1,10 +1,5 @@
 {
-  "followup": {
-    "test_sync": {
-      "done_at": 1700000000000,
-      "note": "Claude测试"
-    }
-  },
+  "followup": {},
   "overrides": {
     "71914451_CR-044": {
       "status": "completed",
