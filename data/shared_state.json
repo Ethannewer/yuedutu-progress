@@ -427,6 +427,11 @@
     "72169382_CR-048_remind": {
       "done": true,
       "done_at": 1780672939187
+    },
+    "71914524_CR-064_praise": {
+      "note": "已发送Raz E课程链接",
+      "done": true,
+      "done_at": 1780904133826
     }
   },
   "overrides": {
