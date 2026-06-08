@@ -435,6 +435,10 @@
     },
     "72151086_CR-043_remind": {
       "note": "已发送RAZ F课程链接"
+    },
+    "72259959_CR-048_remind": {
+      "done": true,
+      "done_at": 1780910694048
     }
   },
   "overrides": {
