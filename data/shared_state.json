@@ -479,8 +479,8 @@
       "done_at": 1781247454288
     },
     "72681785_CR-061_praise": {
-      "done": true,
-      "done_at": 1781255790565
+      "done": false,
+      "done_at": null
     }
   },
   "overrides": {
